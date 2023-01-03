@@ -7,6 +7,7 @@ O projeto a seguir aborda de forma simples os seguintes recursos:
 - [x] JPA
 - [x] Bean Validation
 - [x] H2 Database
+- [x] Pagination & Filter
 - [x] Swagger
 
 
